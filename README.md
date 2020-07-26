@@ -732,6 +732,7 @@ variables) can be accessed outside the class.
 Do you know [*What happens when more restrictive access is given to a
 derived class method in
 C++?*](https://www.geeksforgeeks.org/what-happens-when-more-restrictive-access-is-given-in-a-derived-class-method-in-c/)
+Shows how we can access even a private function of Derived class through Base class pointer and Runtime Polymorphism
 
 ###  
 
